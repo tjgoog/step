@@ -1,5 +1,7 @@
 # WELCOME!!!!
 
+TEST
+
 This repo contains Tim's portfolio and STEP projects.
 
 *under construction*
