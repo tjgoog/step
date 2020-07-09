@@ -1,0 +1,29 @@
+{
+  "name": "linter-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terencedignon/linter-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terencedignon/linter-example/issues"
+  },
+  "homepage": "https://github.com/terencedignon/linter-example#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-google": "^0.14.0",
+    "htmllint-cli": "0.0.7",
+    "markdownlint": "^0.20.4",
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "dependencies": {}
+}
+
